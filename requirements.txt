@@ -5,3 +5,4 @@ plotly
 tensorflow
 joblib
 yfinance
+tensorflow==2.12.0
