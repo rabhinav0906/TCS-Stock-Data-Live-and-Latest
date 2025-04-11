@@ -1,8 +1,9 @@
 streamlit
-pandas
-numpy
 plotly
 tensorflow
 joblib
 yfinance
+numpy==1.23.5
+pandas==1.5.3
+protobuf==3.20.3
 tensorflow==2.12.0
