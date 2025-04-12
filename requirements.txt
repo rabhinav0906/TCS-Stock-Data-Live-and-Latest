@@ -6,3 +6,4 @@ yfinance
 numpy==1.23.5
 pandas==1.5.3
 tensorflow==2.12.0
+scikit-learn
