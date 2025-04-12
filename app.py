@@ -6,7 +6,7 @@ import joblib
 from tensorflow.keras.models import load_model
 
 # Load model and scaler
-model = load_model("tcs_lstm_model.keras")
+model = load_model("tcs_lstm_model.h5")
 scaler = joblib.load("scaler.pkl")
 
 # Load stock data
